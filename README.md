@@ -1,0 +1,2 @@
+#elastic-bluetooth
+bluetoothのmacアドレスをelasticsearchに投げる!
